@@ -1,3 +1,3 @@
-# Team BG Magic
+# Neizer_J_Khan_T_HW1
 
-this is our team name
+Team Work 101
