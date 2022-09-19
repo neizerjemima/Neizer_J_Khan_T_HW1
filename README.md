@@ -1,10 +1,28 @@
-# Neizer_J_Khan_T_HW1
+# The Dream Team
+ Team Work 101
 
-Team Work 101 
+All about how Team Work Makes the Dream Work!
+## Jemima Neizer: TM1
+[put your description here]
 
-# Project Name
+Background:
 
-TODO: Write a project description
+Hobbies:
+
+Likes:
+
+Skills:
+
+## Taylor Khan: TM2
+Background: Canadian born - Toronto, Ontario
+
+Hobbies: Art and design
+
+Likes: Anime, Cooking, Baking, Art, Comics, Doggos
+
+Skills: Visual design, creative thinking
+
+[something else idk yet]
 
 ## Installation
 
