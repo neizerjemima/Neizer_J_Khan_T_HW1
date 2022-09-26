@@ -1,10 +1,30 @@
+dev.project.name.desricpt
+# The Dream Team
+ Team Work 101
+
 # HOLA!!!
+main
 
-Team Work 101 
+All about how Team Work Makes the Dream Work!
+## Jemima Neizer: TM1
+[put your description here]
 
-Team yay
+Hobbies:
 
-TODO: Write a project description
+Likes:
+
+Skills:
+
+## Taylor Khan: TM2
+Background: Canadian born - Toronto, Ontario
+
+Hobbies: Art and design
+
+Likes: Anime, Cooking, Baking, Art, Comics, Doggos
+
+Skills: Visual design, creative thinking
+
+[something else idk yet]
 
 ## Installation
 
