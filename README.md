@@ -2,7 +2,7 @@
 
 Team Work 101 
 
-Team Luck
+Team yay
 
 TODO: Write a project description
 
