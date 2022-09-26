@@ -2,7 +2,7 @@
 
 Team Work 101 
 
-# Project Name
+Team Luck
 
 TODO: Write a project description
 
