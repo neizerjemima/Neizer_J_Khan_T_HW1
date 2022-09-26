@@ -1,11 +1,13 @@
+dev.project.name.desricpt
 # The Dream Team
  Team Work 101
+
+# HOLA!!!
+main
 
 All about how Team Work Makes the Dream Work!
 ## Jemima Neizer: TM1
 [put your description here]
-
-Background:
 
 Hobbies:
 
