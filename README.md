@@ -1,19 +1,18 @@
 dev.project.name.desricpt
 # The Dream Team
- Team Work 101
-
-# HOLA!!!
-main
 
 All about how Team Work Makes the Dream Work!
+
 ## Jemima Neizer: TM1
-[put your description here]
 
-Hobbies:
+Background: Ghanaian 
 
-Likes:
+Hobbies: Drawing, Swimming, Reading, and Craft
 
-Skills:
+Likes: Cooking, Anime, Cartoons, Design, Art, Beach.
+
+Skills: Digital drawing, Communication Design
+
 
 ## Taylor Khan: TM2
 Background: Canadian born - Toronto, Ontario
@@ -26,15 +25,7 @@ Skills: Visual design, creative thinking
 
 [something else idk yet]
 
-## Installation
 
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
-
-## Contributing
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
