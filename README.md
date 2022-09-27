@@ -3,13 +3,13 @@
 All about how Team Work Makes the Dream Work!
 
 ## Jemima Neizer: TM1
-![alt text](your image here) "Logo Title Text 1")
-
+![alt text](neizer_canvas.jpg "Logo Title Text 1")
+![alt text](neizer_fashion.jpg "Logo Title Text 1")
 Background: Ghanaian 
 
 Hobbies: Drawing, Swimming, Reading, and Craft
 
-Likes: Cooking, Anime, Cartoons, Design, Art, Beach.
+Likes: Cooking, Anime, Cartoons, Design, Art, Beach, Fashion.
 
 Skills: Digital drawing, Communication Design
 
