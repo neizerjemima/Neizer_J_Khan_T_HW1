@@ -25,7 +25,7 @@ Likes: Anime, Cooking, Baking, Art, Comics, Doggos
 Skills: Visual design, creative thinking
 
 
-## ?
+## How to Commit
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
